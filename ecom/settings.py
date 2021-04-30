@@ -6,7 +6,7 @@ SECRET_KEY = 'q*c39*ez7-hj$$_rf=3wedpg*)$5a0(z5zu%vca-ua3dy%ig+s'
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'comp3421project-fashionfactory.herokuapp.com/']
+ALLOWED_HOSTS = ['.herokuapp.com', 'comp3421project-fashionfactory.herokuapp.com/']
 
 INSTALLED_APPS = [
     'django.contrib.admin',
